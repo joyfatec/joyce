@@ -1,6 +1,8 @@
 # joyce projeto informações salvas rascunho
 sprint 2
+
 <ins>dia 03/05- add info no excel 1° passo do check list</ins>
+
 **Fabricantes de Celulares** (*Marcas mais conhecidas*)
 Essas empresas produzem os aparelhos que você vê nas lojas.
 
@@ -17,6 +19,7 @@ Realme, Oppo, Vivo (China): Crescendo rápido no mercado global, com modelos ace
 Asus (Taiwan): Conhecida por modelos gamers e de alto desempenho (linha ROG Phone, Zenfone)
 
  **Concorrência e Diferenciais**
+
 Alta concorrência: Mercado saturado, exige diferenciação (preço, atendimento, garantia, parcelamento).
 
 Importância da confiança: Cliente valoriza garantia, suporte e procedência do aparelho.
@@ -24,6 +27,7 @@ Importância da confiança: Cliente valoriza garantia, suporte e procedência do
 Marketing digital: Essencial para atrair e fidelizar clientes, especialmente via redes sociais e e-commerce.
 
 **Perfil do Consumidor**
+
 Jovens e conectados: A maior parte dos compradores tem entre 16 e 40 anos.
 
 Exigentes: Procuram bom custo-benefício, câmera de qualidade, bateria durável.
@@ -31,6 +35,7 @@ Exigentes: Procuram bom custo-benefício, câmera de qualidade, bateria durável
 Pesquisam muito: Antes de comprar, comparam preços, reviews e avaliações.
 
 **Tendências Tecnológicas**
+
 5G: Expansão da rede no Brasil e novos aparelhos compatíveis.
 
 Dobráveis e inovadores: Samsung e Motorola investem nesse nicho premium.
