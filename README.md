@@ -44,8 +44,16 @@ Câmeras avançadas: Inteligência artificial e múltiplas lentes são diferenci
 
 Sustentabilidade: Demanda crescente por aparelhos recicláveis e com menos impacto ambiental.
 
-<ins>**canva e swot**</ins>
+<ins>**canva e swot passo 20**</ins>
 
 [Canvas app](https://www.canva.com/design/DAGi9s-G79E/FhESlR4sBnqmsj8F3bmbnQ/edit?utm_content=DAGi9s-G79E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+<ins>dia 04/05- add info no excel 1° passo do check list</ins>
+
+**continuação do passo 20**
+
+[Canvas app](https://www.canva.com/design/DAGi9s-G79E/FhESlR4sBnqmsj8F3bmbnQ/edit?utm_content=DAGi9s-G79E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+concluido 
+
+começo dp passo 11
 
